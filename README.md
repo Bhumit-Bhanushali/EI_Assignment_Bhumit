@@ -1,6 +1,7 @@
 # EI_Assignment_Bhumit
 
 Exercise-1
+
 Java Design Patterns Demonstration
 A comprehensive demonstration of 6 essential design patterns in Java, showcasing best practices in object-oriented programming and software architecture.
 📋 Overview
